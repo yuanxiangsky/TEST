@@ -3,4 +3,8 @@ git是一个免费的软件。
 我是git菜鸟。
 我是git大佬。
 git跟踪啥。
-work1分支的修改。
+<<<<<<< HEAD
+work1分支de修改。
+=======
+work1分支de修改。
+>>>>>>> work
